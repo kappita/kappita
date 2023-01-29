@@ -16,6 +16,7 @@ I'd lie if a said that I'm interested in specific technologies or languages. I r
 - Python programming experience. Currently planning on giving assistantship at my University to new students having their first interactions with the language.
 - C programming experience. Learned C alonside Data Structures at my University.
 - I had some interactions with the Java programming language for an University class, so I'm not new to it, but I haven't worked enough with it to say that I have experience.
+- SQL with PostgreSQL. Learned SQL and relational algebra at my University for the Database Design course.
 
 
 
