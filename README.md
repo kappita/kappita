@@ -3,7 +3,7 @@
 Let me introduce myself. I'm Ignacio, a Computer Science/Informatics Engineering student at University of Santiago, Chile. I'm not a native English speaker, but I try my best. \
 I've been into computers and tech since I was very young, even though I never thought I would try to live and work out of it.
 
-I'm currently on vacations from University, so I'm working on some personal projects involving web development and some collective projects with my friends at @Guevondev, so please check them, you can find the organization in my profile.
+I'm currently on vacations from University, so I'm working on some personal projects involving web development and some collective projects with students and collaborators from my Uni at @open-source-usach, so please check them, you can find the organization in my profile.
 <details>
   <summary>More about me</summary>
 
